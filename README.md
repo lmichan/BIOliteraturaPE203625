@@ -80,16 +80,13 @@ El equipo está formado por x investigadores, x servicios sociales, x estudiante
 * [3] Minerva María Romero Pérez (Semestre 2025-2) [Tesis de Licenciatura] ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 * [4] Ana Karen Herrera Escamilla (2026-1) ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo)
 * [5] Jair Hurtado Hernandez (2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo)
-<br>
 * [6] Sofía De Jesús Rodas Velasco (2026-1)  ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
 * [7] Sonia Maria Perez Portillo (2026-1)  ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
 * [8] Zaida Victorina Cuate Tablas (2026-1) ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
-<br>
 * [9] Mariana Ávila Villa (Semestre 2025-2, 2026-1)  ![Static Badge](https://img.shields.io/badge/Animales-orange?style=flat-square&label=Grupo)
 * [14] Guadalupe Guzmán Jacinto (Semestre 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
 * [15] Naya’ni Zamora Jiménez (Semestre 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
 * [16] María Fernanda Mendoza Bravo (Semestre 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
-<br>
 * [27] Miguel Angel Romero Gonzalez (Semestre 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 * [28] Marilú Yatzael Velázquez Barrón (Semestre 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 ---
