@@ -12,17 +12,23 @@ En los planes de estudio vigentes de Biología en la UNAM existen dos componente
 
 Presentación [Bioliteratura PAPIME](https://docs.google.com/presentation/d/1zhE0l9InONDt1gVKK9C_d6T00lc2jEOBAefpGJrelVQ/edit?usp=sharing)
 
-Repositorio de Innovación Educativa [PE203625](https://www.innovacioneducativa.unam.mx:8443/jspui/handle/123456789/8445)
-
-Etiqueta de Mastodon https://mstdn.social/tags/PE203625
-
-Blog Biogarabatos https://biogarabatos.blogspot.com/search/label/PAPIME%2FUNAM%2FPE203625
-
-Anotaciones en Hypothes.is #BioliteraturaPE203625 https://hypothes.is/users/lmichan?q=BioliteraturaPE203625
-
-Bioliteratura PAPIME en el Repositorio de inovación educativa (UNAM):
+Blog Biogarabatos 
 <br>
-[![Static Badge](https://img.shields.io/badge/Repositorio%20UNAM-gold)](https://www.innovacioneducativa.unam.mx:8443/jspui/handle/123456789/8445)
+https://biogarabatos.blogspot.com/search/label/PAPIME%2FUNAM%2FPE203625
+
+Anotaciones en Hypothes.is #BioliteraturaPE203625 
+<br>
+https://hypothes.is/users/lmichan?q=BioliteraturaPE203625
+
+
+Repositorio de Innovación Educativa [PE203625](https://www.innovacioneducativa.unam.mx:8443/jspui/handle/123456789/8445)
+<br>
+[![Static Badge](https://img.shields.io/badge/Repositorio%20UNAM-gold)](https://www.innovacioneducativa.unam.mx:8443/jspui/handle/123456789/8445) 
+<br>
+Etiqueta de Mastodon
+<br>
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mstdn.social/tags/PE203625)
+
 
 
 ## Etapas
@@ -47,6 +53,9 @@ El equipo está formado por x investigadores, x servicios sociales, x estudiante
 
 ## Participantes
 ---
+
+Este proyecto está integrado por un equipo colaborativo compuesto por **2 coordinadores**, **10 profesores**, **2 asesores**, **5 estudiantes**, **8 prestadores de servicio social** y **1 tesista**, quienes en conjunto aportan su experiencia y compromiso para alcanzar los objetivos propuestos.
+
 *Coordinadores*
 * [1] **Layla Michán**  [![Grupo Bioinformacion](https://img.shields.io/badge/Grupo-Bioinformacion-blue?style=flat-square)](https://orcid.org/0000-0002-5798-662X)
 
@@ -56,7 +65,7 @@ El equipo está formado por x investigadores, x servicios sociales, x estudiante
 
   *Profesores* 
 * [1] Roxana Acosta Gutiérrez (Semestre 2025-2)
-* [2] David Suarez Pascal  (Semestre 2025-2, 2026-1) ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
+* [2] David Suarez Pascal  (Semestre 2025-2, 2026-1) [![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)](https://github.com/PhilosophyHubio/experiencias-documentacion)
 * [3] Ricardo Noguera Solano (Semestre 2025-2, 2026-1)
 * [4] Erick García Trejo (Semestre 2025-2)
 * [5] Juan Manuel Rodríguez Caso (Semestre 2025-2)
@@ -80,15 +89,15 @@ El equipo está formado por x investigadores, x servicios sociales, x estudiante
 * [3] Minerva María Romero Pérez (Semestre 2025-2) [Tesis de Licenciatura] ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 * [4] Ana Karen Herrera Escamilla (2026-1) ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo)
 * [5] Jair Hurtado Hernandez (2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/Archaea-green?style=flat-square&label=Grupo)
-* [6] Sofía De Jesús Rodas Velasco (2026-1)  ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
-* [7] Sonia Maria Perez Portillo (2026-1)  ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
-* [8] Zaida Victorina Cuate Tablas (2026-1) ![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)
+* [6] Sofía De Jesús Rodas Velasco (2026-1)  [![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)](https://github.com/PhilosophyHubio/experiencias-documentacion)
+* [7] Sonia Maria Perez Portillo (2026-1) [![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)](https://github.com/PhilosophyHubio/experiencias-documentacion)
+* [8] Zaida Victorina Cuate Tablas (2026-1) [![Static Badge](https://img.shields.io/badge/PhilosophyHubio-pink?style=flat-square&label=Grupo)](https://github.com/PhilosophyHubio/experiencias-documentacion)
 * [9] Mariana Ávila Villa (Semestre 2025-2, 2026-1)  ![Static Badge](https://img.shields.io/badge/Animales-orange?style=flat-square&label=Grupo)
-* [14] Guadalupe Guzmán Jacinto (Semestre 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
-* [15] Naya’ni Zamora Jiménez (Semestre 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
-* [16] María Fernanda Mendoza Bravo (Semestre 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
-* [27] Miguel Angel Romero Gonzalez (Semestre 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
-* [28] Marilú Yatzael Velázquez Barrón (Semestre 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
+* [10] Guadalupe Guzmán Jacinto (Semestre 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
+* [11] Naya’ni Zamora Jiménez (Semestre 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
+* [12] María Fernanda Mendoza Bravo (Semestre 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/UNAD-C06EFF?style=flat-square&label=Grupo)
+* [13] Miguel Angel Romero Gonzalez (Semestre 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
+* [14] Marilú Yatzael Velázquez Barrón (Semestre 2026-1) [Servicio Social] ![Static Badge](https://img.shields.io/badge/Bioinformaci%C3%B3n-blue?style=flat-square&label=Grupo)
 ---
 
 ## Productos
