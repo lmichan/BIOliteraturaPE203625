@@ -1,7 +1,7 @@
 # PROYECTO PAPIME PE203625
 COMPETENCIAS PARA LA ENSEÑANZA-APRENDIZAJE DE BIOLITERATURA: UNA INTERVENCION ESTRATEGICA
 
-Somos un grupo de profesores que tenemos en común interés por la biología, la literatura y las tecnologías computacionales y que integrarlas constituye una buena manera de potenciar la educación.
+Somos un grupo de profesores interesados en la biología, la literatura y las tecnologías computacionales, y consideramos que su integración constituye una vía eficaz para potenciar la educación. En este contexto, proponemos un proyecto educativo orientado a fortalecer competencias informacionales en estudiantes de biología, mediante recursos digitales y estrategias didácticas basadas en ocho características esenciales de la literatura científica.
 
 ![](https://github.com/lmichan/BIOliteraturaPE203625/blob/main/AProyectoPAPIME.png)
 <br>
@@ -39,9 +39,6 @@ Introducción a la biología comparada [361676](https://www.fciencias.unam.mx/do
 Historia de la Biología [361719](https://www.fciencias.unam.mx/docencia/horarios/presentacion/361719), [361688](https://www.fciencias.unam.mx/docencia/horarios/presentacion/361688), 361692(https://www.fciencias.unam.mx/docencia/horarios/presentacion/361692)
 
 Filosofía e historia de la Biologías [363796](https://www.fciencias.unam.mx/docencia/horarios/presentacion/363796)
-
-### Descripción
-El equipo está formado por x investigadores, x servicios sociales, x estudiantes, x mujeres, x hombres
 
 ### Implementación
 
