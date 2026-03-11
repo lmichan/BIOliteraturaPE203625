@@ -29,6 +29,18 @@ Etiqueta de Mastodon
 <br>
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mstdn.social/tags/PE203625)
 
+## Bibliotecas
+Bioliteraturara2024 https://www.zotero.org/groups/2769748/biohistoria/library
+
+Biología2024 https://www.zotero.org/groups/5866354/biologia/library
+
+Biohistoria https://www.zotero.org/groups/2769748/biohistoria/library
+
+Animalia https://www.zotero.org/groups/5993039/animalia/library
+
+BasesBiologíaEvolutiva2024 https://www.zotero.org/groups/2769748/biohistoria/library
+
+BiologíaComparada2024 https://www.zotero.org/groups/5835551/biologiacomparada/library
 
 
 ## Etapas
