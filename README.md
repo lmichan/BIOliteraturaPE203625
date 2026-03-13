@@ -32,17 +32,23 @@ Etiqueta de Mastodon
 ## Bibliotecas
 Uno de los produstos clave de este proyecto son las bibliotecas con la bibliografía en línea y abierta en Zotero para los estudiantes de la Carrera de Biología del Plan 2024 (Facultad de Ciencias, UNAM, 2024) que tiene bibliografía digital con identificadores DOI, ISBN, URL, ISSN y etiquetas. 
 
-Bioliteraturara2024 https://www.zotero.org/groups/2769748/biohistoria/library
+*Bioliteraturara2024* https://www.zotero.org/groups/2769748/biohistoria/library
 
-Biología2024 https://www.zotero.org/groups/5866354/biologia/library
+*Biología2024* https://www.zotero.org/groups/5866354/biologia/library
+*Etiquetas*
+Básica🔵	https://www.zotero.org/groups/5866354/biologia/tags/B%C3%A1sica%F0%9F%94%B5/library	Tipo de bibliografía
+Complementaria🟢	https://www.zotero.org/groups/5866354/biologia/tags/Complementaria%F0%9F%9F%A2/library	Tipo de bibliografía
+Mesografía🟡	https://www.zotero.org/groups/5866354/biologia/tags/Mesograf%C3%ADa%F0%9F%9F%A1/library	Tipo de bibliografía
+AccesoAbierto🆓	https://www.zotero.org/groups/5866354/biologia/tags/AccesoAbierto%F0%9F%86%93/library	Tipo de acceso
+TextoCompleto🔺	https://www.zotero.org/groups/5866354/biologia/tags/TextoCompleto%F0%9F%94%BA%E2%80%8B/items/27X2NUUD/item-list	Tipo de acceso
 
-Biohistoria https://www.zotero.org/groups/2769748/biohistoria/library
+*Biohistoria* https://www.zotero.org/groups/2769748/biohistoria/library
 
-Animalia https://www.zotero.org/groups/5993039/animalia/library
+*Animalia* https://www.zotero.org/groups/5993039/animalia/library
 
-BasesBiologíaEvolutiva2024 https://www.zotero.org/groups/2769748/biohistoria/library
+*BasesBiologíaEvolutiva2024* https://www.zotero.org/groups/2769748/biohistoria/library
 
-BiologíaComparada2024 https://www.zotero.org/groups/5835551/biologiacomparada/library
+*BiologíaComparada2024* https://www.zotero.org/groups/5835551/biologiacomparada/library
 
 
 ## Etapas
