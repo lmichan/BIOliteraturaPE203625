@@ -36,11 +36,12 @@ Uno de los produstos clave de este proyecto son las bibliotecas con la bibliogra
 
 *Biología2024* https://www.zotero.org/groups/5866354/biologia/library
 *Etiquetas*
-Básica🔵	https://www.zotero.org/groups/5866354/biologia/tags/B%C3%A1sica%F0%9F%94%B5/library	Tipo de bibliografía
-Complementaria🟢	https://www.zotero.org/groups/5866354/biologia/tags/Complementaria%F0%9F%9F%A2/library	Tipo de bibliografía
-Mesografía🟡	https://www.zotero.org/groups/5866354/biologia/tags/Mesograf%C3%ADa%F0%9F%9F%A1/library	Tipo de bibliografía
-AccesoAbierto🆓	https://www.zotero.org/groups/5866354/biologia/tags/AccesoAbierto%F0%9F%86%93/library	Tipo de acceso
-TextoCompleto🔺	https://www.zotero.org/groups/5866354/biologia/tags/TextoCompleto%F0%9F%94%BA%E2%80%8B/items/27X2NUUD/item-list	Tipo de acceso
+
+Básica🔵	https://www.zotero.org/groups/5866354/biologia/tags/B%C3%A1sica%F0%9F%94%B5/library	
+Complementaria🟢	https://www.zotero.org/groups/5866354/biologia/tags/Complementaria%F0%9F%9F%A2/library	
+Mesografía🟡	https://www.zotero.org/groups/5866354/biologia/tags/Mesograf%C3%ADa%F0%9F%9F%A1/library	
+AccesoAbierto🆓	https://www.zotero.org/groups/5866354/biologia/tags/AccesoAbierto%F0%9F%86%93/library	
+TextoCompleto🔺	https://www.zotero.org/groups/5866354/biologia/tags/TextoCompleto%F0%9F%94%BA%E2%80%8B/items/27X2NUUD/item-list	
 
 *Biohistoria* https://www.zotero.org/groups/2769748/biohistoria/library
 
