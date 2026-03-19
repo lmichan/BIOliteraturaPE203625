@@ -46,7 +46,9 @@ Uno de los produstos clave de este proyecto son las bibliotecas con la bibliogra
 
 *Infografías*:  
 [Bliblioteca Biología 2024](https://drive.google.com/drive/u/0/folders/1UZ_LNzjXHdCNwi9b4gOqD_Qo4C40OTBg)
+
 [Etiquetas de tipo de bibliografía y tipo de acceso](https://drive.google.com/drive/u/0/folders/1UZ_LNzjXHdCNwi9b4gOqD_Qo4C40OTBg)
+
 [Etiquetas de materias](https://drive.google.com/drive/u/0/folders/1UZ_LNzjXHdCNwi9b4gOqD_Qo4C40OTBg)
 
 ### [Biohistoria](https://www.zotero.org/groups/2769748/biohistoria/library)
