@@ -44,6 +44,11 @@ Uno de los produstos clave de este proyecto son las bibliotecas con la bibliogra
 [AccesoAbierto🆓](https://www.zotero.org/groups/5866354/biologia/tags/AccesoAbierto%F0%9F%86%93/library)	
 [TextoCompleto🔺](https://www.zotero.org/groups/5866354/biologia/tags/TextoCompleto%F0%9F%94%BA%E2%80%8B/items/27X2NUUD/item-list)	
 
+*Infografías*:  
+[Bliblioteca Biología 2024](https://drive.google.com/drive/u/0/folders/1UZ_LNzjXHdCNwi9b4gOqD_Qo4C40OTBg)
+[Etiquetas de tipo de bibliografía y tipo de acceso](https://drive.google.com/drive/u/0/folders/1UZ_LNzjXHdCNwi9b4gOqD_Qo4C40OTBg)
+[Etiquetas de materias](https://drive.google.com/drive/u/0/folders/1UZ_LNzjXHdCNwi9b4gOqD_Qo4C40OTBg)
+
 ### [Biohistoria](https://www.zotero.org/groups/2769748/biohistoria/library)
 
 ### [Animalia](https://www.zotero.org/groups/5993039/animalia/library)
