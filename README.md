@@ -34,9 +34,9 @@ Uno de los produstos clave de este proyecto son las bibliotecas con la bibliogra
 
 ### [Bioliteraturara2024](https://www.zotero.org/groups/2769748/biohistoria/library)
 
-### [PlanBiologia FCUNAM](https://www.zotero.org/groups/5866354/biologia/library](https://www.zotero.org/groups/5866354/planbiologia_fcunam/library)
+### [PlanBiologia FCUNAM](https://www.zotero.org/groups/5866354/planbiologia_fcunam/library)
 
-*Etiquetas de Biología 2024*
+*Etiquetas de PlanBiologia FCUNAM*
 
 [Básica🔵](https://www.zotero.org/groups/5866354/biologia/tags/B%C3%A1sica%F0%9F%94%B5/library)
 [Complementaria🟢](https://www.zotero.org/groups/5866354/biologia/tags/Complementaria%F0%9F%9F%A2/library)	
