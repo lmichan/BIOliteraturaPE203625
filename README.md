@@ -29,6 +29,11 @@ Etiqueta de Mastodon
 <br>
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mstdn.social/tags/PE203625)
 
+## Lista de reproducción de youtube
+
+📹 [BIOliteraturaPE203625](https://www.youtube.com/watch?v=ZWBQhwe_PAU&list=PL32TYkbFayo71cmvN4gh-6i-rOLp9-Rky) 
+
+
 ## Bibliotecas
 Uno de los produstos clave de este proyecto son las bibliotecas con la bibliografía en línea y abierta en Zotero para los estudiantes de la Carrera de Biología del Plan 2024 (Facultad de Ciencias, UNAM, 2024) que tiene bibliografía digital con identificadores DOI, ISBN, URL, ISSN y etiquetas. 
 
