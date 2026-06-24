@@ -31,7 +31,7 @@ Etiqueta de Mastodon
 
 ## Lista de reproducción de youtube
 
-📹 [BIOliteraturaPE203625](https://www.youtube.com/watch?v=ZWBQhwe_PAU&list=PL32TYkbFayo71cmvN4gh-6i-rOLp9-Rky) 
+[📹BIOliteraturaPE203625](https://www.youtube.com/watch?v=ZWBQhwe_PAU&list=PL32TYkbFayo71cmvN4gh-6i-rOLp9-Rky) 
 
 
 ## Bibliotecas
