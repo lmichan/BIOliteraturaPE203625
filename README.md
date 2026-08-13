@@ -37,9 +37,9 @@ Lista de reproducción de youtube
 ## Bibliotecas
 Uno de los produstos clave de este proyecto son las bibliotecas con la bibliografía en línea y abierta en Zotero para los estudiantes de la Carrera de Biología del Plan 2024 (Facultad de Ciencias, UNAM, 2024) que tiene bibliografía digital con identificadores DOI, ISBN, URL, ISSN y etiquetas. 
 
-### [Bioliteraturara2024](https://www.zotero.org/groups/2769748/biohistoria/library)
-
 ### [PlanBiologia FCUNAM](https://www.zotero.org/groups/5866354/planbiologia_fcunam/library)
+
+
 
 *Etiquetas de PlanBiologia FCUNAM*
 
