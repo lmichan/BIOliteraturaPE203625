@@ -39,6 +39,8 @@ Uno de los produstos clave de este proyecto son las bibliotecas con la bibliogra
 
 ### [PlanBiologia FCUNAM](https://www.zotero.org/groups/5866354/planbiologia_fcunam/library)
 
+En esta biblioteca están contenidas todas las referencias bibliográficas sugeridas para las materias obligatorias nuevo plan de estudios de la carrera de Biología de la Facultad de Ciencias, UNAM.
+
 
 
 *Etiquetas de PlanBiologia FCUNAM*
@@ -58,12 +60,22 @@ Uno de los produstos clave de este proyecto son las bibliotecas con la bibliogra
 
 ### [Biohistoria](https://www.zotero.org/groups/2769748/biohistoria/library)
 
+En esta biblioteca están contenidas todas las referencias bibliográficas sugeridas para las materias obligatorias en relación con la historia de la biología, del nuevo plan de estudios de la carrera de Biología de la Facultad de Ciencias, UNAM.
+
 ### [Animalia](https://www.zotero.org/groups/5993039/animalia/library)
+
+En esta biblioteca están contenidas todas las referencias bibliográficas sugeridas para las materias de animales, del nuevo plan de estudios de la carrera de Biología de la Facultad de Ciencias, UNAM.
+
 
 ### [BasesBiologíaEvolutiva2024](https://www.zotero.org/groups/2769748/biohistoria/library)
 
+En esta biblioteca están contenidas todas las referencias bibliográficas sugeridas para la materia de Bases de Biología Evolutiva, del nuevo plan de estudios de la carrera de Biología de la Facultad de Ciencias, UNAM.
+
+
+
 ### [BiologíaComparada2024](https://www.zotero.org/groups/5835551/biologiacomparada/library)
 
+En esta biblioteca están contenidas todas las referencias bibliográficas sugeridas para la materia de Fundamentos de Biología Comparada, del nuevo plan de estudios de la carrera de Biología de la Facultad de Ciencias, UNAM.
 
 ## Etapas
 ### Pruebas
